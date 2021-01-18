@@ -1,2 +1,2 @@
-# projectb
-Coursera GIT - project B
+# projectb's README
+
